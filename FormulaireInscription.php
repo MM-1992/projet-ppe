@@ -9,7 +9,7 @@
        <label for="Nom">Votre Nom</label> : <input type="text" name="Nom" id="Nom" />
    </p>
  </form>
-	<form method="post" action="traitement.php">
+	<form method="post" action="traitement.php>
    <p>
        <label for="Prénom">Votre Prénom</label> : <input type="text" name="Prénom" id="Prénom" />
    </p>
